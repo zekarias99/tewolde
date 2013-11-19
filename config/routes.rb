@@ -1,6 +1,4 @@
 Tewolde::Application.routes.draw do
-  get "kiwamy_gesys/geza"
-  get "kiwamy_gesys/hagez"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
